@@ -1,0 +1,19 @@
+# Ducarme.github<!DOCTYPE html>
+<html lang="ht">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Plan Aprantisaj Enfòmatik Samuel</title>
+</head>
+<body>
+  <h1>Plan Aprantisaj Enfòmatik Samuel</h1>
+  <p>Byenveni sou paj aprantisaj ou an! Gade tout kou ak etap yo pou 3 mwa.</p>
+  <ul>
+    <li><a href="https://www.kaggle.com/learn/python" target="_blank">Kaggle – Python Course</a></li>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">FreeCodeCamp – HTML, CSS, JS</a></li>
+    <li><a href="https://www.netacad.com/" target="_blank">Cisco – Introduction to Networking</a></li>
+    <li><a href="https://www.kaggle.com/learn/intro-to-data-analysis" target="_blank">Kaggle – Data Analysis</a></li>
+  </ul>
+  <footer><p>© 2025 Samuel Ducarme – Sit Aprantisaj Pèsonèl</p></footer>
+</body>
+</html>
